@@ -4,7 +4,7 @@
 ### Added
 - **Screener Information**: Added ability to create a new participant.
 - **Screener Narrative**: Added ability to capture concerns about children and families.
-- **Person Search**:  Added ability to search for clients by First Name, Last Name, Date of Birth, and Social Security Number.
+- **Person Search**:  Added ability to search for clients by First Name, Last Name, Date of Birth, and Social Security Number.  Also added  highlighting in the search results of first and last name matched search criteria.
 - **Person Demographics**: Added  ability to capture specific information about people to ensure that the correct people are added to screenings.
 - **Reporting Party**: Added ability to collect information about the reporting party to provide to investigating workers so that follow up for additional information can be attempted/conducted.
 - **Allegations**: Added ability to capture allegations of child abuse for all children named in concerns from a reporting party.
