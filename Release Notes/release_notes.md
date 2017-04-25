@@ -1,5 +1,17 @@
-# April 13, 2017
+# April 25, 2017
+## Intake
+### Added
+- No adds.
+### Changed
+- Configured the system to reset the data (i.e., remove any new data entered by Sandbox users) every night.
+- Modified the disclaimer on the login page.
+- Changed the login process to accept unique named users and secured passwords.
+- **Person Demographics**: Added phone number field for a person on screening.
+- **Person Search**: Added highlighting of first and last name search matched search results based on entered search criteria.
+### Fixed
+- No fixes.
 
+# April 13, 2017
 ##  Intake
 ### Added
 - **Screener Information**: Added ability to create a new participant.
