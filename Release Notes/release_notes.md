@@ -1,3 +1,14 @@
+# May 4, 2017 
+## Intake 
+### Added 
+- **Worker Safety Card**:  Added ability to capture potential safety risks to investigators making visits to home.
+- **Screening History**: Added ability to see a person's history of screenings to assess for patterns of CANE (child abuse, neglect, exploitation). 
+### Changed 
+- No changes. 
+### Fixed 
+- Fixed the ability to support multiple users to access the system at the same time (multi-session token management)
+- Fixed security token replacement to allow users to log back in after time out
+
 # April 25, 2017
 ## Intake
 ### Added
