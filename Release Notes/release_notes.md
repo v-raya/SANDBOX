@@ -6,8 +6,8 @@
 ### Changed 
 - No changes. 
 ### Fixed 
-- Fixed the ability to support multiple users to access the system at the same time (multi-session token management)
-- Fixed security token replacement to allow users to log back in after time out
+- Fixed the ability to support multiple users to access the system at the same time (multi-session token management).
+- Fixed security token replacement to allow users to log back in after time out.
 
 # April 25, 2017
 ## Intake
