@@ -1,4 +1,4 @@
-# May 8, 2017 
+# v2.4 May 8, 2017 
 ## Intake 
 ### Added 
 - **Worker Safety Card**:  Added ability to capture potential safety risks to investigators making visits to home.
@@ -9,7 +9,7 @@
 - Fixed the ability to support multiple users to access the system at the same time (multi-session token management).
 - Fixed security token replacement to allow users to log back in after time out.
 
-# April 25, 2017
+# v2.3 April 25, 2017
 ## Intake
 ### Added
 - No adds.
@@ -22,7 +22,7 @@
 ### Fixed
 - No fixes.
 
-# April 13, 2017
+# v2.2 April 13, 2017
 ##  Intake
 ### Added
 - **Screener Information**: Added ability to create a new participant.
