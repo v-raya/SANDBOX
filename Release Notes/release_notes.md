@@ -1,3 +1,12 @@
+# v2.4.1 May 10, 2017 
+## Intake 
+### Added 
+- No adds. 
+### Changed 
+- No changes. 
+### Fixed 
+- Fixed Person Search highlighting.
+
 # v2.4 May 8, 2017 
 ## Intake 
 ### Added 
